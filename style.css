@@ -111,3 +111,27 @@
 
   color: #4d5053;
 }
+
+.se4-head {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  letter-spacing: 0.22px;
+  color: #292f36;
+}
+
+.se4-text {
+  /* The world needs innovators and problem solvers who turn challenges into greater opportunities. We have */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
