@@ -135,8 +135,19 @@
 
   color: #4d5053;
 }
+.flex {
+  display: flex;
+}
 
-.se7-text {
+.a1 {
+  display: block;
+  padding-top: 21px;
+  padding-bottom: 23px;
+  padding-left: 34px;
+  padding-right: 67px;
+  background-image: url("./img/IMAGE\ \(3\).webp");
+  background-repeat: no-repeat;
+  color: white;
   /* Get Free Estimate */
 
   font-family: "Jost";
@@ -146,6 +157,10 @@
   line-height: 27px;
   /* identical to box height, or 150% */
   letter-spacing: 0.72px;
-  color: white;
-  background-image: url(./img/IMAGE\\(3\).webp);
+
+  color: #ffffff;
+}
+
+.div1 {
+  display: flex;
 }
