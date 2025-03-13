@@ -122,7 +122,7 @@
   color: #292f36;
 }
 
-.se4-text {
+.se5-text {
   /* The world needs innovators and problem solvers who turn challenges into greater opportunities. We have */
 
   font-family: "Jost";
@@ -134,4 +134,18 @@
   letter-spacing: 0.22px;
 
   color: #4d5053;
+}
+
+.se7-text {
+  /* Get Free Estimate */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.72px;
+  color: white;
+  background-image: url(./img/IMAGE\\(3\).webp);
 }
