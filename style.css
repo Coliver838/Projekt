@@ -14,31 +14,24 @@
   padding-bottom: 70px;
 }
 .se1-head {
-  /* Interior Design */
-
   font-family: "DM Serif Display";
   font-style: normal;
   font-weight: 400;
   font-size: 25px;
   line-height: 39px;
-  /* identical to box height, or 156% */
   text-align: center;
   letter-spacing: 0.22px;
 
   color: #292f36;
 }
 .se1-text {
-  /* Enhancing the interior to achieve a healthier environment for the people using right space. */
-
   font-family: "Jost";
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
   line-height: 33px;
-  /* or 150% */
   text-align: center;
   letter-spacing: 0.22px;
-
   color: #4d5053;
 }
 .se2 {
@@ -48,28 +41,22 @@
 }
 
 .se2-head {
-  /* Furniture */
-
   font-family: "DM Serif Display";
   font-style: normal;
   font-weight: 400;
   font-size: 25px;
   line-height: 39px;
-  /* identical to box height, or 156% */
   text-align: center;
   letter-spacing: 0.22px;
 
   color: #292f36;
 }
 .se3-head {
-  /* Flooring */
-
   font-family: "DM Serif Display";
   font-style: normal;
   font-weight: 400;
   font-size: 25px;
   line-height: 39px;
-  /* identical to box height, or 156% */
   text-align: center;
   letter-spacing: 0.22px;
 
@@ -83,14 +70,11 @@
 }
 
 .se2-text {
-  /* Thin object any finished material applied over a floor structure to provide a walking surface. */
-
   font-family: "Jost";
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
   line-height: 33px;
-  /* or 150% */
   text-align: center;
   letter-spacing: 0.22px;
 
@@ -98,14 +82,11 @@
 }
 
 .se3-text {
-  /* Thin object any finished material applied over a floor structure to provide a walking surface. */
-
   font-family: "Jost";
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
   line-height: 33px;
-  /* or 150% */
   text-align: center;
   letter-spacing: 0.22px;
 
@@ -123,14 +104,11 @@
 }
 
 .se5-text {
-  /* The world needs innovators and problem solvers who turn challenges into greater opportunities. We have */
-
   font-family: "Jost";
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
   line-height: 33px;
-  /* or 150% */
   letter-spacing: 0.22px;
 
   color: #4d5053;
@@ -148,14 +126,12 @@
   background-image: url("./img/IMAGE\ \(3\).webp");
   background-repeat: no-repeat;
   color: white;
-  /* Get Free Estimate */
 
   font-family: "Jost";
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 27px;
-  /* identical to box height, or 150% */
   letter-spacing: 0.72px;
 
   color: #ffffff;
